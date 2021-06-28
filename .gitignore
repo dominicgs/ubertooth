@@ -1,3 +1,6 @@
+# MacOS Files
+.DS_Store
+
 # host and firmware
 *.o
 *.so.*
